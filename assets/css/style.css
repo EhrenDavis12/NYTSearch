@@ -1,0 +1,35 @@
+.jumbotron{
+    text-align: center;
+    background-image: url('/assets/images/paper-bg.jpg');
+    background-size: cover;
+}
+
+
+
+.card-header {
+    background-image: url('/assets/images/paper-bg.jpg');
+    background-size: cover;
+}
+
+/* Header Styles */
+header {
+    box-shadow: 3px 10px 10px rgba(0,0,0,0.1);
+    margin-bottom: 20px;
+}
+
+/* Form Styles */
+section {
+    box-shadow: 3px 10px 20px rgba(0,0,0,0.1);
+    margin-bottom: 20px;
+}
+
+.btn-primary {
+    background-color: gray;
+    border: none;
+}
+
+.btn-primary:hover {
+    background-color: black;
+}
+
+/* Results Styles */
